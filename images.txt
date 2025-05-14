@@ -1,11 +1,1 @@
-nginx
-plugin_daemon
-PostgreSQL
-Weaviate
-worker 
-SSRF Proxy
-Web
-Redis
-API
-Sandbox
 dify:0.15.3
