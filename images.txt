@@ -8,3 +8,4 @@ Web
 Redis
 API
 Sandbox
+dify:0.15.3
