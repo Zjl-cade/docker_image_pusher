@@ -1,1 +1,1 @@
-dify:0.15.3
+plugin_daemon
