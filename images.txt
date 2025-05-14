@@ -1,1 +1,10 @@
 nginx
+plugin_daemon
+PostgreSQL
+Weaviate
+worker 
+SSRF Proxy
+Web
+Redis
+API
+Sandbox
